@@ -6,8 +6,7 @@
 </p>
 <hr>
 
-
-# Credit Default Prediction Algorithm in Bank Marketing Dataset
+<h1 align='center'> K-Means Clustering Algorithm for Iris Species Classification </h1>
 
 <hr>
 
@@ -21,8 +20,6 @@
 - [Data Science Methodology](#data-science-methodology)
     - [Problem Formulation](#problem-formulation)
     - [Data Engineering Methods](#data-engineering-methods)
-    - [Modeling](#modeling)
-    - [Deployment](#deployment)
 - [Conclusions](#conclusions)
 - [Contributing Members and Contacts](#contributing-members-and-contacts)
 
@@ -40,7 +37,7 @@
 
 
 ## Introduction
-The purpose of this project is to build a machine learning algorithm capable of classification from scratch. Classification algorithms have progressed to so far that they are now capable of safely driving a person to and from destinations. The Tesla self driving car has classification recognition software deeply embedded in its systems.
+The purpose of this project is to build a machine learning algorithm capable of classification from scratch. A k-means clustering algorithm has been built for the purpose of deciding which species of iris flower each observation belongs to.
 
 
 ### Project Description
@@ -57,7 +54,7 @@ K-means clustering algorithms are created from scratch to enable classification 
 ## Data Science Methodology
 
 ### Problem Formulation
-Provide a means of classifying the Iris plant species using Python. An algorithm is constructed that can be applied in any classification scenario. This can be scaled up, to allow machine to classify or decide what they are 'looking' at.
+Provide a means of classifying the Iris plant species using Python. An algorithm is constructed that can be applied in many classification scenarios. This can be scaled up, to allow machine to classify or decide what they are 'looking' at. Classification algorithms have progressed to so far that they are now capable of safely driving a person to and from destinations. The Tesla self driving car has classification recognition software deeply embedded in its systems.
 
 ### Data Engineering Methods
 - Data Visualisation
