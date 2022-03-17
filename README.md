@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-<h1 align='center'> K-Means Clustering Algorithm for Iris Species Classification </h1>
+<h1 align='center'> Unsupervised Machine Learning Algorithm for Iris Species Classification </h1>
 
 <hr>
 
@@ -37,7 +37,7 @@
 
 
 ## Introduction
-The purpose of this project is to build a machine learning algorithm capable of classification from scratch. A k-means clustering algorithm has been built for the purpose of deciding which species of iris flower each observation belongs to.
+The purpose of this project is to build an unsupervised machine learning algorithm capable of classification from scratch. A k-means clustering algorithm has been built for the purpose of deciding which species of iris flower each observation belongs to. A test harness is set up
 
 
 ### Project Description
@@ -47,8 +47,10 @@ K-means clustering algorithms are created from scratch to enable classification 
 
 
 ### Objectives
+- Implement an unsupervised machine learning algorithm
+- Build a test harness
 - Use k-means clustering algorithms to classify points
-- Identify iris species using data and algorthim
+- Identify iris flower species
 
 
 ## Data Science Methodology
@@ -61,6 +63,7 @@ Provide a means of classifying the Iris plant species using Python. An algorithm
 - Machine Learning
 - Classification
 - Algorithm architecture
+- Test driven development
 
 
 ## Conclusions
